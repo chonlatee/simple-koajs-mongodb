@@ -1,3 +1,4 @@
+// Just simple mongo
 const { MongoClient } = require('mongodb')
 const mongoURL = "mongodb://localhost:27017/blog"
 
