@@ -1,0 +1,21 @@
+{
+  "name": "hero",
+  "version": "1.0.0",
+  "description": "just simple hero list for test koa2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Chonlatee Jumratsee",
+  "license": "MIT",
+  "dependencies": {
+    "koa-body": "^2.5.0",
+    "koa-logger": "^3.1.0",
+    "koa-router": "^7.3.0",
+    "koa-views": "^6.1.2",
+    "koa2": "^2.0.0-alpha.7",
+    "mongodb": "^2.2.33",
+    "swig": "^1.4.2"
+  }
+}
